@@ -14,4 +14,6 @@ GUI project opening and Preview have not been verified for all four files. Recip
 
 Physical assembly and placement of one device on the lower tier are evidenced in the private development record. Full-frame load capacity, thermal response, creep and long-term reliability remain unverified. The 591.1 g measurement is stand mass, not a load rating.
 
-The distribution excludes private development history, CAD sources, Modular files, personal photographs and internal audit records. Original project metadata is preserved; LICENSE.md supplies the distribution terms because the native archives contain no embedded reuse license.
+The distribution excludes private development history, CAD sources, Modular files, unrelated personal photographs and internal audit records. Original project metadata is preserved; LICENSE.md supplies the distribution terms because the native archives contain no embedded reuse license.
+
+On 2026-10-20 the owner authorized including two product photographs in the public repository. They document assembly and one-device placement only.
