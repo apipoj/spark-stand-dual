@@ -2,6 +2,17 @@
 
 ขาตั้ง DGX Spark แบบสองชั้น รุ่น Dual ชุดนี้ไม่ใช่ Modular และไม่ได้ออกแบบให้ต่อเพิ่มชั้น
 
+![Spark Stand Dual พร้อมเครื่องจำลองสองตัว มุมสามส่วน](assets/images/assembled-three-quarter.png)
+
+ภาพเรนเดอร์แสดงการจัดวางสองชั้น ใช้คานทึบ v04 ส่วนไฟล์พิมพ์ที่แจกใช้คานโปร่ง v05 LIGHTER พร้อมโลโก้หนึ่งชิ้น เครื่องในภาพเป็นโมเดลจำลองที่โปรเจกต์สร้างขึ้น
+
+<details>
+<summary>ดูภาพด้านหน้า</summary>
+
+![Spark Stand Dual มุมด้านหน้า](assets/images/assembled-front.png)
+
+</details>
+
 ดาวน์โหลด [ชุดไฟล์ล่าสุด](https://github.com/apipoj/spark-stand-dual/releases/tag/v0.1.0) หรือเปิดไฟล์จาก [projects/](projects/) ได้เลย ไม่ต้องใช้ Python, CadQuery หรือ Blender
 
 อนุญาตให้พิมพ์ใช้ส่วนตัวเท่านั้น ห้ามแก้แบบ แจกต่อไฟล์ ขายไฟล์หรือชิ้นงาน และใช้เชิงพาณิชย์ แชร์ลิงก์ repository แทนการส่งไฟล์ อ่าน [เงื่อนไขฉบับเต็ม](LICENSE.md) ก่อนดาวน์โหลด ต้องการซื้อสินค้าสำเร็จรูปใช้ [spark-stand.com](https://spark-stand.com)
@@ -34,4 +45,4 @@
 
 ตรวจ geometry ครบ 14 ชิ้นเทียบกับ Dual STL แล้ว และมีผล Slice ผ่าน CLI ของ Bambu Studio 2.8.2.61 จากรอบเตรียมเผยแพร่ ยังไม่ได้ยืนยันเปิดและ Preview ผ่าน GUI ครบทั้งชุด ดู [ผลตรวจและข้อจำกัด](VERIFICATION.md)
 
-Repository นี้แจกเฉพาะไฟล์พิมพ์ Dual และเอกสาร ไม่มี CAD source หรือไฟล์ Modular
+Repository นี้มีไฟล์พิมพ์ Dual เอกสาร และภาพประกอบ ไม่มี CAD source หรือไฟล์ Modular
