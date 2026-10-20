@@ -2,7 +2,7 @@
 
 ขาตั้ง DGX Spark แบบสองชั้น รุ่น Dual ชุดนี้ไม่ใช่ Modular และไม่ได้ออกแบบให้ต่อเพิ่มชั้น
 
-ดาวน์โหลด [ชุดไฟล์ล่าสุด](https://github.com/apipoj/spark-stand-dual/releases/latest) หรือเปิดไฟล์จาก [projects/](projects/) ได้เลย ไม่ต้องใช้ Python, CadQuery หรือ Blender
+ดาวน์โหลด [ชุดไฟล์ล่าสุด](https://github.com/apipoj/spark-stand-dual/releases/tag/v0.1.0) หรือเปิดไฟล์จาก [projects/](projects/) ได้เลย ไม่ต้องใช้ Python, CadQuery หรือ Blender
 
 อนุญาตให้พิมพ์ใช้ส่วนตัวเท่านั้น ห้ามแก้แบบ แจกต่อไฟล์ ขายไฟล์หรือชิ้นงาน และใช้เชิงพาณิชย์ แชร์ลิงก์ repository แทนการส่งไฟล์ อ่าน [เงื่อนไขฉบับเต็ม](LICENSE.md) ก่อนดาวน์โหลด ต้องการซื้อสินค้าสำเร็จรูปใช้ [spark-stand.com](https://spark-stand.com)
 
